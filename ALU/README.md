@@ -1,10 +1,10 @@
-# 🧮 ALU – Arithmetic Logic Unit (C++ Model)
+# ALU – Arithmetic Logic Unit (C++ Model)
 
 This folder contains a **C++ implementation of a 32-bit Arithmetic Logic Unit (ALU)**. It mimics the behavior of a hardware ALU and is useful for standalone simulation, learning, or using as a golden reference model in verification workflows.
 
 ---
 
-## ⚙️ Supported Operations
+## Supported Operations
 
 The ALU supports the following 4-bit control codes:
 
@@ -27,18 +27,18 @@ The result is returned as a struct containing:
 
 ---
 
-## 📁 Files
+## Files
 
 - `main.cpp` — Contains the complete ALU implementation and test driver.
 
 ---
 
-## 🧪 Running the Code
+## Running the Code
 
-### 🔧 Prerequisites
+### Prerequisites
 - C++ compiler (GCC or Clang recommended)
 
-### ▶️ Compile & Run (Terminal)
+### Compile & Run (Terminal)
 1. Clone the repository and navigate to the project folder:
    ```bash
     g++ -std=c++17 main.cpp -o alu_test
@@ -51,7 +51,7 @@ The result is returned as a struct containing:
 
 ---
 
-## 💡To-Do / Ideas
+## To-Do / Ideas
 
 - Add unit tests using C++ testing frameworks (like Google Test)
 - Extend to 64-bit support
@@ -60,7 +60,7 @@ The result is returned as a struct containing:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Questions or feedback?
-📧 sridurgaraju07@gmail.com
+sridurgaraju07@gmail.com
