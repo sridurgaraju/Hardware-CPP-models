@@ -4,7 +4,7 @@ This repository contains **C++ implementations of hardware-inspired functional m
 
 ---
 
-## 🔍 Projects Overview
+## Projects Overview
 
 - **Arithmetic Logic Unit (ALU):**  
   A 32-bit C++ implementation of an ALU that supports basic arithmetic, logic, and shift operations. Includes a struct-based result (`result`, `zeroFlag`) and mirrors RTL behavior.  
@@ -13,7 +13,7 @@ This repository contains **C++ implementations of hardware-inspired functional m
 ---
 
 
-## 🚀 Tools & Technologies
+## Tools & Technologies
 
 - **Language:** C++17  
 - **Tested On:** Code::Blocks, GCC (Linux/Windows)  
@@ -21,7 +21,7 @@ This repository contains **C++ implementations of hardware-inspired functional m
 
 ---
 
-## 📌 Planned Additions
+## Planned Additions
 
 This repository will be expanded with:
 
@@ -29,10 +29,6 @@ This repository will be expanded with:
 - Simple CPU instruction decoder
 - Cache Simulator (direct-mapped, set-associative)
 - Branch predictor models
-
----
-
-## 📬 Contact
 For questions, reach out via:
 📧 Email: sridurgaraju07@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/sri-durga-raju/
